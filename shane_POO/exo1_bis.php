@@ -61,6 +61,13 @@ class booktest {
 $booktest = new booktest("moi"); 
 // lors de l'affichage d'une classe, il doit y avoir le même nb d'arguments qu'il y a ds construc //
 
+// lors de l'affichage d'une classe, il doit y avoir le même nb d'arguments qu'il y a ds construc //
+
+// lors de l'affichage d'une classe, il doit y avoir le même nb d'arguments qu'il y a ds construc //
+
+// lors de l'affichage d'une classe, il doit y avoir le même nb d'arguments qu'il y a ds construc //
+
+
 $booktest -> Instance_test();
 
 
